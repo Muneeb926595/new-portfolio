@@ -1,3 +1,19 @@
+import YourImg from './assets/images/dp.png'
+import MobileAppPic0 from "./assets/images/projects/mobile-apps/0.png";
+import Pic0 from "./assets/images/projects/web/0.png";
+import Pic1 from "./assets/images/projects/web/1.png";
+import Pic2 from "./assets/images/projects/web/2.png";
+import Pic4 from "./assets/images/projects/web/4.png";
+import Pic5 from "./assets/images/projects/web/5.png";
+import Pic9 from "./assets/images/projects/web/9.png";
+import Pic11 from "./assets/images/projects/web/11.png";
+import Pic12 from "./assets/images/projects/web/12.png";
+import Pic13 from "./assets/images/projects/web/13.png";
+import Pic14 from "./assets/images/projects/web/14.png";
+import Pic15 from "./assets/images/projects/web/15.png";
+import Pic16 from "./assets/images/projects/web/16.png";
+import Pic17 from "./assets/images/projects/web/17.png";
+
 const logotext = "Muneeb ur rehman";
 const meta = {
     title: "Muneeb ur rehman",
@@ -12,7 +28,7 @@ const introdata = {
         third: "Powerful Backend App Specialist"
     },
     description: "Experienced software engineer passionate about developing innovative programs to drive organizational success. Proficient in leveraging technology to create reliable and user-friendly systems. Skilled leader with a track record of motivating and managing teams to deliver high-quality software solutions. A confident communicator and strategic thinker, dedicated to customizing software to meet organizational needs, showcase core competencies, and drive continued success.",
-    your_img_url: "http://muneeb-ur-rehman.surge.sh/static/media/muneeb.2fb404a5.png",
+    your_img_url: YourImg,
 };
 
 const dataabout = {
@@ -38,7 +54,7 @@ const achievement = [{
 
 const skills = [{
     name: "React native",
-    value: 90,
+    value: 95,
 },
 {
     name: "Javascript",
@@ -72,67 +88,78 @@ const experiances = [{
 },
 ];
 
-const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/800/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
+const dataportfolio = [
+    {
+        img: MobileAppPic0,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic0,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic1,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic2,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic4,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic5,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic9,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
+    {
+        img: Pic11,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic12,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic13,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic14,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic15,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic16,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: Pic17,
+        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 ];
 
 const contactConfig = {
