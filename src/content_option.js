@@ -147,6 +147,7 @@ const contactConfig = {
 const socialprofils = {
     facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/muneeb-ur-rehman-212619148/",
+    github: "https://github.com/Muneeb926595",
 };
 export {
     meta,
