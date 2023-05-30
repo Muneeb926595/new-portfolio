@@ -11,6 +11,7 @@ export const Portfolio = () => {
         <Helmet>
           <meta charSet="utf-8" />
           <title> Portfolio | {meta.title} </title>{" "}
+          <link rel="icon" href='../../assets/title_logo.ico' />
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3">

@@ -70,6 +70,7 @@ export const ContactUs = () => {
         <Helmet>
           <meta charSet="utf-8" />
           <title>{meta.title} | Contact</title>
+          <link rel="icon" href='../../assets/title_logo.ico' />
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3">
@@ -83,9 +84,8 @@ export const ContactUs = () => {
             <Alert
               //show={formData.show}
               variant={formData.variant}
-              className={`rounded-0 co_alert ${
-                formData.show ? "d-block" : "d-none"
-              }`}
+              className={`rounded-0 co_alert ${formData.show ? "d-block" : "d-none"
+                }`}
               onClose={() => setFormdata({ show: false })}
               dismissible
             >
