@@ -3,6 +3,7 @@ import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
+import MyCv from "../../assets/muneeb-ur-rehman-cv.pdf";
 import { Link } from "react-router-dom";
 
 export const Home = () => {
@@ -55,6 +56,13 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  <a
+                    href={MyCv}
+                    id="button_h" className="ac_btn btn"
+                    download
+                  >
+                    Download Resume
+                  </a>
                 </div>
               </div>
             </div>
