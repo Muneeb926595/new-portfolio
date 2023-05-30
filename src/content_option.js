@@ -12,7 +12,7 @@ const introdata = {
         third: "Powerful Backend App Specialist"
     },
     description: "Experienced software engineer passionate about developing innovative programs to drive organizational success. Proficient in leveraging technology to create reliable and user-friendly systems. Skilled leader with a track record of motivating and managing teams to deliver high-quality software solutions. A confident communicator and strategic thinker, dedicated to customizing software to meet organizational needs, showcase core competencies, and drive continued success.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "http://muneeb-ur-rehman.surge.sh/static/media/muneeb.2fb404a5.png",
 };
 
 const dataabout = {
