@@ -104,8 +104,8 @@ const dataportfolio = [
         project_name: "Trally",
         img: MobileAppPic1,
         type: 'mobile',
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
+        desctiption: "Explore the world from home with Trally's captivating live tours, connecting you to dream destinations and local perspectives while fostering global citizenship.",
+        long_desctiption: "Trally is a peer-to-peer virtual tour marketplace that brings live streams from around the world to your fingertips. Hosts share captivating live tours, allowing guests to explore dream destinations from the comfort of home. Interact with hosts, preview destinations, and engage in educational, business, or research activities remotely. As a host on Trally, you become part of the thriving gig economy, earning money while showcasing your local cities and offering your unique perspective to international guests. Trally's mission is to inspire global citizenship, fostering appreciation for our planet and embracing its diverse cultural tapestry. Join Trally and embark on a transformative journey of exploration and cultural understanding.",
         link: "/portfolio-details:2",
     },
     {
@@ -113,8 +113,8 @@ const dataportfolio = [
         project_name: "SweatPartner",
         img: MobileAppPic2,
         type: 'mobile',
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
+        desctiption: "Fitness transformed: Sweat Partner's all-in-one app offers 24/7 access, convenient booking, and expert guidance for gym memberships, trainers, and partners.",
+        long_desctiption: "Discover the power of Sweat Partner, the ultimate app for buying gym memberships, hiring trainers, and becoming a fitness partner. Find 24/7 access to nearby gym trainers and training partners, book sessions at your convenience, and experience top-notch exercise guidance. With Sweat Partner, unlock the benefits of a personal trainer - from motivation and fitness expertise to improved technique, accountability, confidence, overcoming plateaus, and diverse workouts.",
         link: "/portfolio-details:3",
     },
     {
