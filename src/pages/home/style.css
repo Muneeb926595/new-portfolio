@@ -49,11 +49,23 @@ section {
     width: 40%;
 }
 
+.home-content {
+    width: 60% !important;
+}
+
 @media (max-width:991.98px) {
 
     .intro_sec .text,
     .intro_sec .h_bg-image {
         width: 100%;
+    }
+}
+
+@media (max-width:991.98px) {
+
+    .home-content {
+        width: 100% !important;
+        margin-top: 5rem !important;
     }
 }
 
