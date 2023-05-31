@@ -91,7 +91,7 @@ const experiances = [{
 const dataportfolio = [
     {
         img: MobileAppPic0,
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        desctiption: "The online pharmacy known as ScalaMed is designed to help patients manage their prescriptions.",
         link: "#",
     },
     {
