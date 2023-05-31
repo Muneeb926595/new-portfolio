@@ -31,18 +31,12 @@ export const PortfolioDetail = () => {
                         <hr className="t_border my-4 ml-0 text-left" />
                     </Col>
                 </Row>
-                <div className="mb-5 po_items_ho">
-                    {dataportfolio.map((data, i) => {
-                        return (
-                            <div key={i} className="po_item">
-                                <img style={{ objectFit: 'cover', height: '100%', width: '100%' }} src={data.img} alt="" />
-                                <div className="content">
-                                    <p>{data.desctiption}</p>
-                                    <a href={data.link}>view project</a>
-                                </div>
-                            </div>
-                        );
-                    })}
+                <div className="po_item_detail">
+                    <img style={{ objectFit: 'contain', height: '100%', width: '100%' }} src={data?.img} alt="" />
+                </div>
+                <div className="case_study_overview" >
+                    <h3 className="color_sec py-4">Overview</h3>
+                    <p className="service_desc">{data?.long_desctiption}</p>
                 </div>
             </Container>
         </HelmetProvider>

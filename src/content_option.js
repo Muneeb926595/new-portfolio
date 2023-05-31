@@ -92,23 +92,26 @@ const experiances = [{
 const dataportfolio = [
     {
         id: 1,
-        project_name: "Test",
+        project_name: "ScalaMed",
         img: MobileAppPic0,
         desctiption: "The online pharmacy known as ScalaMed is designed to help patients manage their prescriptions.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:1",
     },
     {
         id: 2,
-        project_name: "Test",
+        project_name: "Trally",
         img: MobileAppPic1,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:2",
     },
     {
         id: 3,
-        project_name: "Test",
+        project_name: "SweatPartner",
         img: MobileAppPic2,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:3",
     },
     {
@@ -116,6 +119,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic2,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:4",
     },
     {
@@ -123,6 +127,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic4,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:5",
     },
     {
@@ -130,6 +135,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic5,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:6",
     },
     {
@@ -137,6 +143,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic9,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:7",
     },
 
@@ -145,6 +152,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic11,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:8",
     },
     {
@@ -152,6 +160,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic12,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:9",
     },
     {
@@ -159,6 +168,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic13,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:10",
     },
     {
@@ -166,6 +176,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic14,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:11",
     },
     {
@@ -173,6 +184,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic15,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:12",
     },
     {
@@ -180,6 +192,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic16,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:13",
     },
     {
@@ -187,6 +200,7 @@ const dataportfolio = [
         project_name: "Test",
         img: Pic17,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        long_desctiption: "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
         link: "/portfolio-details:14",
     },
 ];
