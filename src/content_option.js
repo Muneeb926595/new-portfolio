@@ -1,6 +1,7 @@
 import YourImg from './assets/images/dp.png'
 import MobileAppPic0 from "./assets/images/projects/mobile-apps/0.png";
-import Pic0 from "./assets/images/projects/web/0.png";
+import MobileAppPic1 from "./assets/images/projects/mobile-apps/1.png";
+import MobileAppPic2 from "./assets/images/projects/mobile-apps/2.png";
 import Pic1 from "./assets/images/projects/web/1.png";
 import Pic2 from "./assets/images/projects/web/2.png";
 import Pic4 from "./assets/images/projects/web/4.png";
@@ -95,12 +96,12 @@ const dataportfolio = [
         link: "#",
     },
     {
-        img: Pic0,
+        img: MobileAppPic1,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: Pic1,
+        img: MobileAppPic2,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
