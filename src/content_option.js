@@ -38,19 +38,19 @@ const dataabout = {
 };
 const achievement = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
+    jobtitle: "TOP PERFORMER OF THE YEAR",
+    where: "NESL-IT",
+    date: "2021",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
+    jobtitle: "TOP PERFORMER OF THE YEAR",
+    where: "Scalamed",
+    date: "2022",
   },
   {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "EMPLOYEE OF THE MONTH",
+    where: "Scalamed",
+    date: "May 2023",
   },
 ];
 
