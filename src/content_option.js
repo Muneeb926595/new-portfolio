@@ -184,7 +184,7 @@ const dataportfolio = [
       "Insta-Remake is a customized web application built with React and Node.js, offering a unique user interface and personalized features inspired by Instagram",
     long_desctiption:
       "Insta-Remake is an impressive web application developed using React and Node.js, designed to recreate the essence of Instagram while incorporating a distinctive and personalized touch. With a focus on user experience, the application boasts a custom user interface that sets it apart from the original platform. By leveraging the power of React, the developers have created an engaging and responsive environment for users to explore. The core functionalities of Insta-Remake mirror those of Instagram, allowing users to register, create profiles, and connect with friends. The application goes beyond emulation by introducing innovative custom features that enhance the overall user experience. These unique functionalities cater to the preferences and requirements of the users, setting Insta-Remake apart from its inspiration. The development process involved meticulous attention to detail, from designing the user interface to implementing the backend functionality. The front-end development was accomplished using React, harnessing its flexibility and component-based architecture. The Node.js backend facilitated seamless communication between the user interface and the server, enabling efficient data processing and retrieval. Throughout the development of Insta-Remake, an agile approach was adopted, ensuring constant iteration and improvement. Rigorous testing was conducted to ensure a smooth and bug-free user experience. Feedback from early users was carefully incorporated, resulting in a highly refined and polished application. Insta-Remake is a testament to the developer's proficiency in React and Node.js, showcasing their ability to create sophisticated web applications with custom interfaces and functionalities. By including this project in their portfolio, they demonstrate their capacity to deliver unique and engaging user experiences while leveraging the power of modern web development technologies.",
-    link: "/portfolio-details:10",
+    link: "/portfolio-details:8",
   },
   {
     id: 9,
@@ -206,7 +206,7 @@ const dataportfolio = [
       "The wisdom of life consists in the elimination of non-essentials.",
     long_desctiption:
       "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
-    link: "/portfolio-details:8",
+    link: "/portfolio-details:10",
   },
   {
     id: 11,
