@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from "react";
+
 import "./style.css";
+import { ReactComponent as PlayStoreButton } from "../../assets/play_store.svg";
+import { ReactComponent as AppStoreButton } from "../../assets/app_store.svg";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { dataportfolio, meta } from "../../content_option";
@@ -19,6 +22,31 @@ export const PortfolioDetail = () => {
       setData(foundData);
     }
   }, [id]);
+
+  const RenderAppStoreLinks = (
+    <div className="d-flex align-items-center">
+      {data?.playstore && (
+        <a href={data?.playstore} target="_blank" rel="noopener noreferrer">
+          <PlayStoreButton
+            style={{
+              width: "160px",
+              height: "60px",
+            }}
+          />
+        </a>
+      )}
+      {data?.appstore && (
+        <a href={data?.appstore} target="_blank" rel="noopener noreferrer">
+          <AppStoreButton
+            style={{
+              width: "160px",
+              height: "60px",
+            }}
+          />
+        </a>
+      )}
+    </div>
+  );
 
   return (
     <HelmetProvider>
@@ -81,33 +109,7 @@ export const PortfolioDetail = () => {
               </p>
             </div>
           )}
-          <div className="d-flex align-items-center">
-            {data?.playstore && (
-              <div
-                className="mr-4"
-                style={{ display: "flex", alignContent: "center" }}
-              >
-                <a
-                  href={data?.playstore}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Playstore
-                </a>
-              </div>
-            )}
-            {data?.appstore && (
-              <div style={{ display: "flex", alignContent: "center" }}>
-                <a
-                  href={data?.appstore}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Appstore
-                </a>
-              </div>
-            )}
-          </div>
+          {RenderAppStoreLinks}
         </div>
       </Container>
     </HelmetProvider>
