@@ -174,9 +174,19 @@ const dataportfolio = [
       "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
     link: "/portfolio-details:7",
   },
-
   {
     id: 8,
+    project_name: "With After School",
+    img: Pic11,
+    type: "web",
+    desctiption:
+      "WithAfterSchool is an innovative web application built with Next.js and FeatherJS, facilitating collaboration between teachers and students through live classes, interactive whiteboard sessions, messaging, and course management",
+    long_desctiption:
+      "WithAfterSchool is an exceptional web application developed using Next.js and FeatherJS, designed to foster collaboration and learning between teachers and students on a single online platform. The application empowers teachers to conduct live class sessions, utilize an interactive whiteboard for explanations, engage in messaging, and manage courses effectively. The core functionality of WithAfterSchool revolves around enabling teachers to create and deliver live class sessions to their students. These sessions provide an immersive learning experience, allowing teachers to share their knowledge and interact with students in real-time. The integration of an interactive whiteboard feature enhances the teaching process, enabling teachers to visually explain concepts and engage students in interactive discussions. Furthermore, WithAfterSchool facilitates seamless communication between teachers and students through a messaging system. This feature allows for quick and efficient exchange of information, enabling teachers to address queries and provide support to students outside of live sessions. Additionally, the platform includes comprehensive course management capabilities, enabling teachers to organize and deliver their courses effectively. WithAfterSchool's development involved meticulous attention to detail, ensuring a user-friendly and intuitive interface. Next.js was utilized to create a responsive and high-performance front-end, providing a smooth user experience. FeatherJS, a lightweight and flexible framework, facilitated the development of the back-end, enabling efficient data processing and real-time communication. Throughout the development process, an iterative and agile approach was adopted, allowing for continuous improvement and refinement. Extensive testing was conducted to ensure the stability, security, and reliability of the application. Feedback from teachers and students was actively sought and incorporated to enhance the overall user experience. WithAfterSchool exemplifies the developer's proficiency in Next.js and FeatherJS, showcasing their ability to create robust web applications that facilitate collaboration and learning. By featuring this project in their portfolio, they demonstrate their expertise in developing advanced educational platforms and delivering seamless user experiences that empower both teachers and students in their educational journey. ",
+    link: "/portfolio-details:8",
+  },
+  {
+    id: 9,
     project_name: "Insta-Remake",
     img: Pic13,
     type: "web",
@@ -184,10 +194,10 @@ const dataportfolio = [
       "Insta-Remake is a customized web application built with React and Node.js, offering a unique user interface and personalized features inspired by Instagram",
     long_desctiption:
       "Insta-Remake is an impressive web application developed using React and Node.js, designed to recreate the essence of Instagram while incorporating a distinctive and personalized touch. With a focus on user experience, the application boasts a custom user interface that sets it apart from the original platform. By leveraging the power of React, the developers have created an engaging and responsive environment for users to explore. The core functionalities of Insta-Remake mirror those of Instagram, allowing users to register, create profiles, and connect with friends. The application goes beyond emulation by introducing innovative custom features that enhance the overall user experience. These unique functionalities cater to the preferences and requirements of the users, setting Insta-Remake apart from its inspiration. The development process involved meticulous attention to detail, from designing the user interface to implementing the backend functionality. The front-end development was accomplished using React, harnessing its flexibility and component-based architecture. The Node.js backend facilitated seamless communication between the user interface and the server, enabling efficient data processing and retrieval. Throughout the development of Insta-Remake, an agile approach was adopted, ensuring constant iteration and improvement. Rigorous testing was conducted to ensure a smooth and bug-free user experience. Feedback from early users was carefully incorporated, resulting in a highly refined and polished application. Insta-Remake is a testament to the developer's proficiency in React and Node.js, showcasing their ability to create sophisticated web applications with custom interfaces and functionalities. By including this project in their portfolio, they demonstrate their capacity to deliver unique and engaging user experiences while leveraging the power of modern web development technologies.",
-    link: "/portfolio-details:8",
+    link: "/portfolio-details:9",
   },
   {
-    id: 9,
+    id: 10,
     project_name: "Whatsapp-Remake",
     img: Pic12,
     type: "web",
@@ -195,17 +205,6 @@ const dataportfolio = [
       "WhatsApp-Remake is a React and Node.js web application that replicates the functionalities of WhatsApp, incorporating a customized user interface and personalized features",
     long_desctiption:
       "WhatsApp-Remake is a remarkable web application developed using React and Node.js, aimed at recreating the popular messaging platform, WhatsApp, with a unique twist. By leveraging React's powerful components and Node.js's backend capabilities, the developers have successfully replicated WhatsApp's functionalities while introducing a custom user interface and personalized features. The application's core features encompass the ability to register, create profiles, and communicate with friends. However, WhatsApp-Remake takes it a step further by implementing additional functionalities that enhance the overall messaging experience. These custom features reflect the developer's creative vision and provide users with an enriched messaging platform tailored to their needs. The development process involved meticulous attention to detail, from designing the user interface to implementing the backend functionality. React's component-based architecture allowed for the creation of an engaging and responsive user interface, ensuring a seamless messaging experience. The Node.js backend facilitated efficient data processing and real-time communication between users, emulating WhatsApp's functionality. Throughout the development of WhatsApp-Remake, an agile approach was adopted, enabling continuous iteration and improvement. Rigorous testing was conducted to ensure a reliable and secure messaging environment. Feedback from early users was considered and incorporated, resulting in a refined and user-friendly application. WhatsApp-Remake showcases the developer's expertise in React and Node.js, highlighting their ability to create sophisticated web applications with custom interfaces and functionalities. By including this project in their portfolio, they demonstrate their proficiency in delivering unique and personalized user experiences while utilizing cutting-edge web development technologies.",
-    link: "/portfolio-details:9",
-  },
-  {
-    id: 10,
-    project_name: "Test",
-    img: Pic11,
-    type: "web",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    long_desctiption:
-      "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
     link: "/portfolio-details:10",
   },
   {
