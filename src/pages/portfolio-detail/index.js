@@ -26,7 +26,11 @@ export const PortfolioDetail = () => {
   const RenderAppStoreLinks = (
     <div className="d-flex align-items-center">
       {data?.playstore && (
-        <a href={data?.playstore} target="_blank" rel="noopener noreferrer">
+        <a
+          href={data?.playstore || "/#"}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <PlayStoreButton
             style={{
               width: "160px",
@@ -36,7 +40,11 @@ export const PortfolioDetail = () => {
         </a>
       )}
       {data?.appstore && (
-        <a href={data?.appstore} target="_blank" rel="noopener noreferrer">
+        <a
+          href={data?.appstore || "/#"}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <AppStoreButton
             style={{
               width: "160px",
@@ -83,7 +91,7 @@ export const PortfolioDetail = () => {
                 style={{ textDecorationLine: "underline" }}
               >
                 <a
-                  href={data?.website}
+                  href={data?.website || "/#"}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -100,7 +108,7 @@ export const PortfolioDetail = () => {
                 style={{ textDecorationLine: "underline" }}
               >
                 <a
-                  href={data?.github}
+                  href={data?.github || "/#"}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
