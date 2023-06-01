@@ -64,7 +64,7 @@ export const PortfolioDetail = () => {
               </p>
             </div>
           )}
-          {data?.website && (
+          {data?.github && (
             <div style={{ display: "flex", alignContent: "center" }}>
               <h5 className="color_sec pr-4">Github</h5>
               <p
@@ -76,7 +76,7 @@ export const PortfolioDetail = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  {data?.website}
+                  {data?.github}
                 </a>
               </p>
             </div>
