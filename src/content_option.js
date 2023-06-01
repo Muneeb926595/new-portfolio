@@ -106,6 +106,9 @@ const dataportfolio = [
       "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
     link: "/portfolio-details:1",
     website: "https://scalamed.com/",
+    playstore:
+      "https://play.google.com/store/apps/details?id=com.scalamed.patientmobileapp&hl=en&gl=US",
+    appstore: "https://apps.apple.com/us/app/scalamed/id1449533241",
   },
   {
     id: 2,
@@ -118,6 +121,8 @@ const dataportfolio = [
       "Trally is a peer-to-peer virtual tour marketplace that brings live streams from around the world to your fingertips. Hosts share captivating live tours, allowing guests to explore dream destinations from the comfort of home. Interact with hosts, preview destinations, and engage in educational, business, or research activities remotely. As a host on Trally, you become part of the thriving gig economy, earning money while showcasing your local cities and offering your unique perspective to international guests. Trally's mission is to inspire global citizenship, fostering appreciation for our planet and embracing its diverse cultural tapestry. Join Trally and embark on a transformative journey of exploration and cultural understanding.",
     link: "/portfolio-details:2",
     website: "http://app.trally.com/",
+    playstore: "https://play.google.com/store/apps/details?id=com.trally",
+    appstore: "https://apps.apple.com/nz/app/trally/id1525750258",
   },
   {
     id: 3,

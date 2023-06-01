@@ -81,6 +81,33 @@ export const PortfolioDetail = () => {
               </p>
             </div>
           )}
+          <div className="d-flex align-items-center">
+            {data?.playstore && (
+              <div
+                className="mr-4"
+                style={{ display: "flex", alignContent: "center" }}
+              >
+                <a
+                  href={data?.playstore}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Playstore
+                </a>
+              </div>
+            )}
+            {data?.appstore && (
+              <div style={{ display: "flex", alignContent: "center" }}>
+                <a
+                  href={data?.appstore}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Appstore
+                </a>
+              </div>
+            )}
+          </div>
         </div>
       </Container>
     </HelmetProvider>
