@@ -177,6 +177,28 @@ const dataportfolio = [
 
   {
     id: 8,
+    project_name: "Insta-Remake",
+    img: Pic13,
+    type: "web",
+    desctiption:
+      "Insta-Remake is a customized web application built with React and Node.js, offering a unique user interface and personalized features inspired by Instagram",
+    long_desctiption:
+      "Insta-Remake is an impressive web application developed using React and Node.js, designed to recreate the essence of Instagram while incorporating a distinctive and personalized touch. With a focus on user experience, the application boasts a custom user interface that sets it apart from the original platform. By leveraging the power of React, the developers have created an engaging and responsive environment for users to explore. The core functionalities of Insta-Remake mirror those of Instagram, allowing users to register, create profiles, and connect with friends. The application goes beyond emulation by introducing innovative custom features that enhance the overall user experience. These unique functionalities cater to the preferences and requirements of the users, setting Insta-Remake apart from its inspiration. The development process involved meticulous attention to detail, from designing the user interface to implementing the backend functionality. The front-end development was accomplished using React, harnessing its flexibility and component-based architecture. The Node.js backend facilitated seamless communication between the user interface and the server, enabling efficient data processing and retrieval. Throughout the development of Insta-Remake, an agile approach was adopted, ensuring constant iteration and improvement. Rigorous testing was conducted to ensure a smooth and bug-free user experience. Feedback from early users was carefully incorporated, resulting in a highly refined and polished application. Insta-Remake is a testament to the developer's proficiency in React and Node.js, showcasing their ability to create sophisticated web applications with custom interfaces and functionalities. By including this project in their portfolio, they demonstrate their capacity to deliver unique and engaging user experiences while leveraging the power of modern web development technologies.",
+    link: "/portfolio-details:10",
+  },
+  {
+    id: 9,
+    project_name: "Whatsapp-Remake",
+    img: Pic12,
+    type: "web",
+    desctiption:
+      "WhatsApp-Remake is a React and Node.js web application that replicates the functionalities of WhatsApp, incorporating a customized user interface and personalized features",
+    long_desctiption:
+      "WhatsApp-Remake is a remarkable web application developed using React and Node.js, aimed at recreating the popular messaging platform, WhatsApp, with a unique twist. By leveraging React's powerful components and Node.js's backend capabilities, the developers have successfully replicated WhatsApp's functionalities while introducing a custom user interface and personalized features. The application's core features encompass the ability to register, create profiles, and communicate with friends. However, WhatsApp-Remake takes it a step further by implementing additional functionalities that enhance the overall messaging experience. These custom features reflect the developer's creative vision and provide users with an enriched messaging platform tailored to their needs. The development process involved meticulous attention to detail, from designing the user interface to implementing the backend functionality. React's component-based architecture allowed for the creation of an engaging and responsive user interface, ensuring a seamless messaging experience. The Node.js backend facilitated efficient data processing and real-time communication between users, emulating WhatsApp's functionality. Throughout the development of WhatsApp-Remake, an agile approach was adopted, enabling continuous iteration and improvement. Rigorous testing was conducted to ensure a reliable and secure messaging environment. Feedback from early users was considered and incorporated, resulting in a refined and user-friendly application. WhatsApp-Remake showcases the developer's expertise in React and Node.js, highlighting their ability to create sophisticated web applications with custom interfaces and functionalities. By including this project in their portfolio, they demonstrate their proficiency in delivering unique and personalized user experiences while utilizing cutting-edge web development technologies.",
+    link: "/portfolio-details:9",
+  },
+  {
+    id: 10,
     project_name: "Test",
     img: Pic11,
     type: "web",
@@ -185,28 +207,6 @@ const dataportfolio = [
     long_desctiption:
       "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
     link: "/portfolio-details:8",
-  },
-  {
-    id: 9,
-    project_name: "Test",
-    img: Pic12,
-    type: "web",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    long_desctiption:
-      "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
-    link: "/portfolio-details:9",
-  },
-  {
-    id: 10,
-    project_name: "Test",
-    img: Pic13,
-    type: "web",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    long_desctiption:
-      "Our Prescription Management Application is a cutting-edge solution designed by Cardinal Health to revolutionise the way prescriptions are managed. The application, available on both mobile and web platforms, offers a comprehensive set of features including secure profile management, digital storage, pharmacy search, price comparisons, and integrated coupons/insurance coverage. With refill reminders and healthcare notifications, users can stay informed and up-to-date with their prescriptions.",
-    link: "/portfolio-details:10",
   },
   {
     id: 11,
