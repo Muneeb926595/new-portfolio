@@ -25,7 +25,6 @@ const Headermain = () => {
             <button className="menu__button  nav_ac" onClick={handleToggle}>
               {!isActive ? <VscClose /> : <VscGrabber />}
             </button>
-
           </div>
         </div>
 
@@ -35,16 +34,30 @@ const Headermain = () => {
               <div className="menu__container p-3">
                 <ul className="the_menu">
                   <li className="menu_item ">
-                    <Link onClick={handleToggle} to="/" className="my-3">Home</Link>
+                    <Link onClick={handleToggle} to="/" className="my-3">
+                      Home
+                    </Link>
                   </li>
                   <li className="menu_item">
-                    <Link onClick={handleToggle} to="/portfolio" className="my-3"> Portfolio</Link>
+                    <Link
+                      onClick={handleToggle}
+                      to="/portfolio"
+                      className="my-3"
+                    >
+                      {" "}
+                      Portfolio
+                    </Link>
                   </li>
                   <li className="menu_item">
-                    <Link onClick={handleToggle} to="/about" className="my-3">About</Link>
+                    <Link onClick={handleToggle} to="/about" className="my-3">
+                      About
+                    </Link>
                   </li>
                   <li className="menu_item">
-                    <Link onClick={handleToggle} to="/contact" className="my-3"> Contact</Link>
+                    <Link onClick={handleToggle} to="/contact" className="my-3">
+                      {" "}
+                      Contact
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -52,8 +65,20 @@ const Headermain = () => {
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
             <div className="d-flex">
-              <a href={socialprofils.facebook} target="_blank">Facebook</a>
-              <a href={socialprofils.github} target="_blank">Github</a>
+              <a
+                href={socialprofils.facebook}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Facebook
+              </a>
+              <a
+                href={socialprofils.github}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Github
+              </a>
             </div>
             <p className="copyright m-0">copyright __ {logotext}</p>
           </div>
@@ -63,7 +88,6 @@ const Headermain = () => {
       <div className="br-bottom"></div>
       <div className="br-left"></div>
       <div className="br-right"></div>
-
     </>
   );
 };
