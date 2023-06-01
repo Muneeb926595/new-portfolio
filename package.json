@@ -17,17 +17,17 @@
         "react-helmet-async": "^1.0.7",
         "react-icons": "^4.1.0",
         "react-router-dom": "^5.2.0",
-        "react-scripts": "4.0.1",
+        "react-scripts": "3.4.3",
         "react-transition-group": "^4.4.2",
         "typewriter-effect": "^2.18.2",
         "web-vitals": "^0.2.4"
     },
     "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test",
+        "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
+        "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+        "test": "NODE_OPTIONS=--openssl-legacy-provider react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
+        "predeploy": "NODE_OPTIONS=--openssl-legacy-provider yarn build && cp build/index.html build/404.html",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
