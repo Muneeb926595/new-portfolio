@@ -129,7 +129,7 @@ const dataportfolio = [
     long_desctiption:
       "Discover the power of Sweat Partner, the ultimate app for buying gym memberships, hiring trainers, and becoming a fitness partner. Find 24/7 access to nearby gym trainers and training partners, book sessions at your convenience, and experience top-notch exercise guidance. With Sweat Partner, unlock the benefits of a personal trainer - from motivation and fitness expertise to improved technique, accountability, confidence, overcoming plateaus, and diverse workouts.",
     link: "/portfolio-details:3",
-    // website: "https://insta-remake.netlify.app/",
+    website: "https://sweatpartner.com/",
   },
   {
     id: 4,
